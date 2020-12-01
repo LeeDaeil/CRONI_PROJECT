@@ -1,4 +1,4 @@
-import Network
+from Old_Ver import Network
 import numpy as np
 import pickle
 

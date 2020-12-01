@@ -1,6 +1,5 @@
 import unittest
-import pickle
-from Trainner import trainner
+from Old_Ver.Trainner import trainner
 
 class Trainner_test(unittest.TestCase):
     def test_train_LSTM_control(self):
